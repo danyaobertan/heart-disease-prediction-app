@@ -1,0 +1,81 @@
+locale,key,value
+en_US,title,Heart Disease Prediction App
+uk_UA,title,Прогнозування серцевих захворювань
+
+en_US,sidebar_header,User Input Features
+uk_UA,sidebar_header,Введення даних користувача
+
+en_US,app_description1,This app predicts whether a patient has heart disease based on various health parameters!
+uk_UA,app_description1,Цей додаток прогнозує чи має пацієнт серцеві захворювання на основі різних показників здоров'я! 
+
+en_US,app_description2,Data obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+uk_UA,app_description2,Дані отримані з [репозиторію машинного навчання UCI](https://archive.ics.uci.edu/ml/index.php)
+
+en_US,user_input_features,User Input features
+uk_UA,user_input_features,Вхідні дані користувача
+
+en_US,example_csv_input_file,Example [CSV Input File](https://pastebin.com/8SuCYhcf)
+uk_UA,example_csv_input_file,Приклад [вхідного файлу CSV](https://pastebin.com/8SuCYhcf)
+
+en_US,upload_csv_input_file,Upload your input CSV file 
+uk_UA,upload_csv_input_file,Завантажте ваш вхідний файл CSV
+
+en_US,result_sick_high,High risk of heart disease
+uk_UA,result_sick_high,Високий ризик серцевих захворювань
+
+en_US,result_sick_high_message,<p style="color:Red;font-weight:bold">Please consult a doctor immediately!</p>
+uk_UA,result_sick_high_message,<p style="color:Red;font-weight:bold">Терміново зверніться до лікаря!</p>
+
+en_US,result_sick_moderate,Moderate risk of heart disease
+uk_UA,result_sick_moderate,Помірний ризик серцевих захворювань
+
+en_US,result_sick_moderate_message,<p style="color:Orange;font-weight:bold">Please consult a doctor for further evaluation!</p>
+uk_UA,result_sick_moderate_message,<p style="color:Orange;font-weight:bold">Зверніться до лікаря для подальших консультацій!</p>
+
+en_US,result_not_sick,Low risk of heart disease
+uk_UA,result_not_sick,Низький ризик серцевих захворювань
+
+en_US,result_not_sick_message,<p style="color:Green;font-weight:bold">These results may not be accurate. Please seek qualified medical assistance from specialists if possible.</p>
+uk_UA,result_not_sick_message,<p style="color:Green;font-weight:bold">Ці результати можуть бути неточними. Будь ласка зверніться за кваліфікованою медичною допомогою до спеціалістів якщо це можливо.</p>
+
+en_US,prediction_probability,Prediction probability
+uk_UA,prediction_probability,Ймовірність прогнозів
+
+en_US,metric_label_sick,Sick Probability
+uk_UA,metric_label_sick,Ймовірність захворювання
+
+en_US,metric_label_health,Healthy Probability
+uk_UA,metric_label_health,Ймовірність відсутності захворювання
+
+en_US,age,Age
+uk_UA,age,Вік
+
+en_US,sex,Sex
+uk_UA,sex,Стать
+
+en_US,chest_pain_type,Chest Pain Type
+uk_UA,chest_pain_type,Тип болю в грудях
+
+en_US,resting_blood_pressure,Resting Blood Pressure (mmHg)
+uk_UA,resting_blood_pressure,Артеріальний тиск в спокої (мм рт.ст.)
+
+en_US,cholesterol,Cholesterol (mg/dl)
+uk_UA,cholesterol,Холестерин (мг/дл)
+
+en_US,fasting_blood_sugar,Fasting Blood Sugar > 120 mg/dl
+uk_UA,fasting_blood_sugar,Глюкоза натще > 120 мг/дл
+
+en_US,rest_ecg,Resting ECG
+uk_UA,rest_ecg,Електрокардіограма в спокої
+
+en_US,max_heart_rate,Max Heart Rate
+uk_UA,max_heart_rate,Максимальний пульс
+
+en_US,exercise_induced_angina,Exercise Induced Angina
+uk_UA,exercise_induced_angina,Стенокардія викликана фізичним навантаженням
+
+en_US,st_depression,ST Depression induced by exercise relative to rest
+uk_UA,st_depression,Зниження ST-сегменту викликана фізичним навантаженням в порівнянні зі спокоєм
+
+en_US,st_slope,ST Slope
+uk_UA,st_slope,Нахил ST-сегменту
